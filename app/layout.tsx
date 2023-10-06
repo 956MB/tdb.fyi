@@ -38,6 +38,7 @@ export const metadata: Metadata = {
 	twitter: {
 		title: "TDB",
 		description: "Like MacTracker, but for Tesla",
+        images: "https://tdb.fyi/og.png",
 		card: "summary_large_image",
 	},
 	icons: {
