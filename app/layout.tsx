@@ -58,9 +58,9 @@ export default function RootLayout({
 				<link rel="icon" href="/logo-square.svg" type="image/svg+xml" />
 				<link rel="apple-touch-icon" href="/logo-square.png" />
 			</head>
-			<body className="antialiased flex flex-col justify-center items-center overflow-auto">
+			<body className="antialiased flex flex-col justify-start items-center overflow-auto">
 				{children}
-				<div className="bg-blur w-[100%] h-[100%] opacity-20 lg:w-[130%] lg:h-[130%] lg:opacity-[0.30]"></div>
+				<div className="bg-blur w-screen h-screen opacity-0 md:opacity-30"></div>
 				<Analytics />
 			</body>
 		</html>
