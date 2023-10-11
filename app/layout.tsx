@@ -60,7 +60,7 @@ export default function RootLayout({
 			</head>
 			<body className="antialiased flex flex-col justify-start items-center overflow-auto">
 				{children}
-				<div className="bg-blur w-screen h-screen opacity-0 md:opacity-30"></div>
+				<div className="bg-blur w-screen h-screen opacity-0 md:opacity-15"></div>
 				<Analytics />
 			</body>
 		</html>

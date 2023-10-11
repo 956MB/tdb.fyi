@@ -22,7 +22,7 @@ module.exports = {
 				15: "0.15",
 			},
 			boxShadow: {
-				icon: "0 0 70px rgba(255, 255, 255, 0.13)",
+				icon: "0 0 70px rgba(255, 255, 255, 0.15)",
 			},
 			borderRadius: {
 				icon: "22px",
