@@ -28,8 +28,8 @@ export default async function Page() {
 
 			<div className="relative w-full h-full max-h-[700px] md:min-h-max flex md:hidden flex-col items-center justify-center lg:my-14 z-50 p-4">
                 <Image
-                    alt="15-pro-static"
-                    src="/images/15-pro-static.png"
+                    alt="15-pro-static-2"
+                    src="/images/15-pro-static-2.png"
                     className="w-full h-full z-50 noselect object-contain"
                     width={1000}
                     height={1000}
@@ -38,8 +38,8 @@ export default async function Page() {
 
 			<div className="relative w-full h-full hidden md:flex flex-col justify-center py-8 z-50 min-h-[615px]">
 				<Image
-					alt="demo-b2"
-					src="/images/demo-b2.png"
+					alt="demo-b3"
+					src="/images/demo-b3.png"
 					className="w-full h-full z-50 noselect object-contain"
 					fill
 				/>
